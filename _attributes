@@ -1,4 +1,4 @@
-[attribute] =>
+[attributes] =>
 :: /code
 :: /issues
 :: /pull-requests
@@ -6,5 +6,5 @@
 :: /insights
 :: /settings
 
-attribute()
+attributes()
  
