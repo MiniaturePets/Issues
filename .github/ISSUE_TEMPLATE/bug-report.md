@@ -1,13 +1,13 @@
 ---
 name: Bug Report
-about: Bug Reporting helps us identify issues and fix them.
+about: Bug Reports help us identify issues and fix them.
 
 ---
 
-*Short description:*
+*Short description:* 
 
-*Long description:*
+*Long description:* 
 
-*Actions to repeat / ways of reaching the bug:*
+*Actions to repeat / ways of reaching the bug:* 
 
 *Miniature Pets Dump Link:*
