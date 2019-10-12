@@ -1,10 +1,9 @@
 [attributes] =>
-:: /code
+:: /
 :: /issues
-:: /pull-requests
-:: /wiki
-:: /insights
+:: /pulls
+:: /network(/alerts)
+:: /pulse
 :: /settings
 
 attributes()
- 
