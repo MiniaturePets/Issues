@@ -2,7 +2,7 @@
 name: Bug Report
 about: Bug Reports help us identify issues and fix them.
 title: ''
-labels: REVIEW
+labels: BUG, REVIEW
 assignees: Amokinio
 
 ---
@@ -11,6 +11,6 @@ assignees: Amokinio
 
 *Long Description:* 
 
-*Instructions For Re-Producing The Bug:* 
+*Instructions for Re-Producing The Bug:* 
 
 *Dump File Link:*

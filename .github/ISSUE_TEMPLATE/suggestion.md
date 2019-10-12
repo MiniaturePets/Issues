@@ -1,14 +1,14 @@
 ---
 name: Suggestion
-about: Suggestions helps us to add features based on the customers will.
+about: Suggestions help us improve the plugin based on your creative ideas.
 title: ''
-labels: ''
-assignees: ''
+labels: SUGGESTION, REVIEW
+assignees: Amokinio
 
 ---
 
-*Suggestion:* 
+*Suggestion:*
 
-*How will it improve the plugin:* 
+*What Are The Benefits of This Feature:*
 
-*Any examples or additional information:*
+*Ways of Implementing This Feature:*
