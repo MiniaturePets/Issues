@@ -1,6 +1,9 @@
 ---
 name: Suggestion
 about: Suggestions helps us to add features based on the customers will.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

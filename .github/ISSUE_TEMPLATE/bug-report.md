@@ -1,13 +1,16 @@
 ---
 name: Bug Report
 about: Bug Reports help us identify issues and fix them.
+title: ''
+labels: REVIEW
+assignees: Amokinio
 
 ---
 
-*Short description:* 
+*Short Description:* 
 
-*Long description:* 
+*Long Description:* 
 
-*Actions to repeat / ways of reaching the bug:* 
+*Instructions For Re-Producing The Bug:* 
 
-*Miniature Pets Dump Link:*
+*Dump File Link:*
