@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Server
+    url: https://discord.gg/yxaP359/
+    about: We offer very extensive help in our Discord server, we recommend opening an issue on GitHub only if a support representative from our Discord server has advised to do so.
