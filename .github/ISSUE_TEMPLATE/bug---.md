@@ -2,7 +2,7 @@
 name: "Bug \U0001F41B"
 about: Bug reports help us identify issues and fix them with your help.
 title: ''
-labels: 'Type: Bug, Status: Under Review'
+labels: 'Status: Under Review, Type: Bug'
 assignees: ''
 
 ---
@@ -35,5 +35,3 @@ If you have any images or videos of the bug, you can post them here. Try to use 
 
 **Free Speech**
 If you have anything left to say about this bug, that's the time to say it. It could be anything you want, this field is not required. Feel free to remove it.
-
-*
