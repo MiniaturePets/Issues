@@ -2,8 +2,8 @@
 name: Suggestion
 about: Suggestions help us improve the plugin based on your creative ideas.
 title: ''
-labels: SUGGESTION, REVIEW
-assignees: Amokinio
+labels: ''
+assignees: ''
 
 ---
 
