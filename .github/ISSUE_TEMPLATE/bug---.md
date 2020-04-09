@@ -2,7 +2,7 @@
 name: "Bug \U0001F41B"
 about: Bug reports help us identify issues and fix them with your help.
 title: ''
-labels: 'Type: Bug, Status: Pending'
+labels: Bug Report, Pending Review
 assignees: ''
 
 ---
