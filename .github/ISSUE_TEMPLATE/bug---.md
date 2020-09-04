@@ -32,6 +32,3 @@ If you have any logs, this is the time to include them, you can use tools like P
 
 **Visual Demonstration**
 If you have any images or videos of the bug, you can post them here. Try to use services like YouTube or Imgur and not upload it to your own servers.
-
-**Free Speech**
-If you have anything left to say about this bug, that's the time to say it. It could be anything you want, this field is not required. Feel free to remove it.
