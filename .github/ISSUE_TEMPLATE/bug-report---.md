@@ -1,9 +1,9 @@
 ---
-name: "Bug Report \U0001F41B"
-about: Bug reports help us identify issues and fix them with your help.
-title: ''
-labels: Bug Report, Pending Review
-assignees: ''
+name: "Bug Report \U0001F912"
+about: Report a bug that you have been facing.
+title: "[Bug Report] "
+labels: ''
+assignees: danielnaaman
 
 ---
 
